@@ -1,0 +1,12 @@
+.header-container {
+    margin-bottom: 2rem;
+  }
+  
+  .header-content {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+  }
+  
+  img {
+    max-height: 500px;
+    object-fit: cover;
+  }  
